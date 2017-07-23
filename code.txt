@@ -1,0 +1,49 @@
+  pakage na.na.na]
+import novita.na]
+import  novita.na.na.na.na.na]
+
+general novitachocolate na  /
+
+ninta naaa] 
+personal ninta na]
+nchara nova]
+
+general empty novita()/\
+general empty novita(ninta na)/\
+
+\
+interface nfirsta/
+na nimplimenta()]
+\
+
+class nonea/
+
+nfloata nvar1a]
+empty nfuna(ninta npar1a)/
+ninta ninside1a]
+\
+empty nfun2a(na npar5a , ninta npar2a , nfloata npar3a)/
+nfloata nvar2a=npar1a]
+\
+
+class nthreea extends na implements nfirsta/
+
+na nobja=new na()]
+ninta na=nobja.naaa]
+
+na nimplimenta()/\
+\
+\ 
+class nfoura extends nonea/
+ninta na]
+ninta nfira=na]
+nchara nsna]
+nchara ntha]
+nsna=ntha]
+
+
+nfoura(ninta na1a)/
+na1a=na]
+loopfor( na1a=na]na1a]na1a++])/
+\
+\\
